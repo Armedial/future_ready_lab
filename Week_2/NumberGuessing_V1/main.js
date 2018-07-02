@@ -1,5 +1,5 @@
 /*eslint-env browser*/
-function playGame(){
+function playGame(){q
     alert("First enter a low number, then a high number. Then, guess a random number between them.");
 
     //get the low and high bounds
